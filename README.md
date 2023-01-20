@@ -34,6 +34,14 @@ below example.
 **Good Job. You have created a new repository including a readme file and you have learned
 how to write a markdown document and clone a repo.**
 
+Figure 1: Clone:
+
+<img width="701" alt="Screenshot 2023-01-20 at 11 16 23 AM" src="https://user-images.githubusercontent.com/122067526/213787760-64c89595-cdd3-4420-91a2-814f74cd4027.png">
+
+Figure 2: Git Example
+
+
+
 ### Exercise 2 - Forking
 * On GitHub, navigate to the [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) repository
 * Fork this repository
