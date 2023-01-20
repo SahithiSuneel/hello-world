@@ -18,3 +18,23 @@ above text.
 * At the bottom of the page, type a short, meaningful commit message that describes the change you
 made to the file.
 * Click **Commit changes**
+* Clone the repo on your desired location on your laptop, to clone the repository on your local machine,
+follow the below steps:
+
+1. In your repository that you’ve made above, under code, you will see the URL of the repository. Copy the
+URL, here is an example:
+2. Open terminal on Mac or Git bash on windows:
+
+Type **pwd** to print the working directory. If you type ls, you can see the list of the files in your directory.
+
+To change the working directory, you can type cd. For instance, you can type cd folder/to/clone-into/
+to change the path to the directory that you want to clone the file. I copied the repo to my C: drive per
+below example.
+
+**Good Job. You have created a new repository including a readme file and you have learned
+how to write a markdown document and clone a repo.**
+
+### Exercise 2 - Forking
+* On GitHub, navigate to the [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) repository
+* Fork this repository
+* Clone the forked repository on your laptop
